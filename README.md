@@ -16,6 +16,11 @@ https://www.simplilearn.com/tutorials/deep-learning-tutorial/convolutional-neura
 https://www.v7labs.com/blog/data-science-interview-questions-and-answers
 
 
+AI in Healthcare:
+
+https://www.v7labs.com/blog/ai-in-healthcare
+
+
 
 
 
