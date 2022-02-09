@@ -13,6 +13,8 @@ https://www.analyticsvidhya.com/blog/2021/05/20-questions-to-test-your-skills-on
 
 https://www.simplilearn.com/tutorials/deep-learning-tutorial/convolutional-neural-network
 
+https://www.v7labs.com/blog/data-science-interview-questions-and-answers
+
 
 
 
