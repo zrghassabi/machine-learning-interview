@@ -24,6 +24,9 @@ U-net:
 https://towardsdatascience.com/paper-summary-u-net-convolutional-networks-for-biomedical-image-segmentation-13f4851ccc5e
 
 
+U-net with Resnet Encoder:
+
+https://towardsdatascience.com/u-nets-with-resnet-encoders-and-cross-connections-d8ba94125a2c
 
 
 color Quantization:
