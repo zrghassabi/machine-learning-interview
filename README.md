@@ -26,7 +26,8 @@ https://towardsdatascience.com/paper-summary-u-net-convolutional-networks-for-bi
 
 
 
-color Quantization
+color Quantization:
+
 https://towardsdatascience.com/colour-image-quantization-using-k-means-636d93887061
 
 
