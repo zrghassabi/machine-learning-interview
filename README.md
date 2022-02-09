@@ -33,6 +33,8 @@ color Quantization:
 
 https://towardsdatascience.com/colour-image-quantization-using-k-means-636d93887061
 
+https://scikit-learn.org/stable/auto_examples/cluster/plot_color_quantization.html
+
 
 AI in Healthcare:
 
