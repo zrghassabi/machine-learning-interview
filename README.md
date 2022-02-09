@@ -24,6 +24,12 @@ U-net:
 https://towardsdatascience.com/paper-summary-u-net-convolutional-networks-for-biomedical-image-segmentation-13f4851ccc5e
 
 
+
+
+color Quantization
+https://towardsdatascience.com/colour-image-quantization-using-k-means-636d93887061
+
+
 AI in Healthcare:
 
 https://www.v7labs.com/blog/ai-in-healthcare
